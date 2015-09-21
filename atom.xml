@@ -41,7 +41,7 @@
     <link href="http://yoursite.com/2015/09/21/Hello-Hexo/"/>
     <id>http://yoursite.com/2015/09/21/Hello-Hexo/</id>
     <published>2015-09-21T01:16:48.000Z</published>
-    <updated>2015-09-21T13:47:19.857Z</updated>
+    <updated>2015-09-21T13:49:21.132Z</updated>
     <content type="html"><![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p>
 <p>$$\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1$$</p>
 <p>最后来个牛逼的吧，薛定谔方程，大学物理考试貌似还复习过这个公式，虽然现在已经记不清是什么意思来着了：<br>$$i\hbar\frac{\partial \psi}{\partial t}<br>= \frac{-\hbar^2}{2m} \left(<br>\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}+ \frac{\partial^2}{\partial z^2}<br>\right) \psi + V \psi.$$</p>
@@ -58,6 +58,7 @@
 <th>项目</th>
 <th style="text-align:right">价格</th>
 <th style="text-align:center">数量</th>
+<th style="text-align:center">名称</th>
 </tr>
 </thead>
 <tbody>
@@ -65,16 +66,19 @@
 <td>计算机</td>
 <td style="text-align:right">$1600</td>
 <td style="text-align:center">5</td>
+<td style="text-align:center">hah</td>
 </tr>
 <tr>
 <td>手机</td>
 <td style="text-align:right">$12</td>
 <td style="text-align:center">12</td>
+<td style="text-align:center">hh</td>
 </tr>
 <tr>
 <td>管线</td>
 <td style="text-align:right">$1</td>
 <td style="text-align:center">234</td>
+<td style="text-align:center">nihao</td>
 </tr>
 </tbody>
 </table>
