@@ -41,7 +41,7 @@
     <link href="http://yoursite.com/2015/09/21/Hello-Hexo/"/>
     <id>http://yoursite.com/2015/09/21/Hello-Hexo/</id>
     <published>2015-09-21T01:16:48.000Z</published>
-    <updated>2015-09-21T14:09:44.073Z</updated>
+    <updated>2015-09-21T14:11:08.812Z</updated>
     <content type="html"><![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p>
 <p>$$\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1$$</p>
 <p>最后来个牛逼的吧，薛定谔方程，大学物理考试貌似还复习过这个公式，虽然现在已经记不清是什么意思来着了：<br>$$i\hbar\frac{\partial \psi}{\partial t}<br>= \frac{-\hbar^2}{2m} \left(<br>\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}+ \frac{\partial^2}{\partial z^2}<br>\right) \psi + V \psi.$$</p>
@@ -83,7 +83,8 @@
 </tbody>
 </table>
 <p>shitou[^shitou]</p>
-<h3 id="高效绘制_流程图">高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图" target="_blank" rel="external">流程图</a></h3><h3 id="高效绘制_序列图">高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#8-序列图" target="_blank" rel="external">序列图</a></h3><p>[^shitou] lizi</p>
+<h3 id="高效绘制_流程图">高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图" target="_blank" rel="external">流程图</a></h3><h3 id="高效绘制_序列图">高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#8-序列图" target="_blank" rel="external">序列图</a></h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Alice-&#62;Bob: Hello Bob, how are you?&#10;Note right of Bob: Bob thinks&#10;Bob--&#62;Alice: I am good thanks!</span><br></pre></td></tr></table></figure>
+<p>[^shitou] lizi</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\par]]>
