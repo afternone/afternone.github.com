@@ -18,7 +18,7 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://yoursite.com/2015/09/21/hello-world/"/>
     <id>http://yoursite.com/2015/09/21/hello-world/</id>
-    <published>2015-09-21T12:11:10.938Z</published>
+    <published>2015-09-21T13:19:08.756Z</published>
     <updated>2015-09-21T12:11:10.938Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
@@ -41,7 +41,7 @@
     <link href="http://yoursite.com/2015/09/21/Hello-Hexo/"/>
     <id>http://yoursite.com/2015/09/21/Hello-Hexo/</id>
     <published>2015-09-21T01:16:48.000Z</published>
-    <updated>2015-09-21T13:49:21.132Z</updated>
+    <updated>2015-09-21T14:09:44.073Z</updated>
     <content type="html"><![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p>
 <p>$$\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1$$</p>
 <p>最后来个牛逼的吧，薛定谔方程，大学物理考试貌似还复习过这个公式，虽然现在已经记不清是什么意思来着了：<br>$$i\hbar\frac{\partial \psi}{\partial t}<br>= \frac{-\hbar^2}{2m} \left(<br>\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}+ \frac{\partial^2}{\partial z^2}<br>\right) \psi + V \psi.$$</p>
@@ -82,7 +82,8 @@
 </tr>
 </tbody>
 </table>
-<p>哈哈哈</p>
+<p>shitou[^shitou]</p>
+<h3 id="高效绘制_流程图">高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图" target="_blank" rel="external">流程图</a></h3><h3 id="高效绘制_序列图">高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#8-序列图" target="_blank" rel="external">序列图</a></h3><p>[^shitou] lizi</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\par]]>
