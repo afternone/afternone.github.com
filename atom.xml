@@ -41,7 +41,7 @@
     <link href="http://yoursite.com/2015/09/21/Hello-Hexo/"/>
     <id>http://yoursite.com/2015/09/21/Hello-Hexo/</id>
     <published>2015-09-21T01:16:48.000Z</published>
-    <updated>2015-09-21T13:43:32.483Z</updated>
+    <updated>2015-09-21T13:46:06.181Z</updated>
     <content type="html"><![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p>
 <p>$$\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1$$</p>
 <p>最后来个牛逼的吧，薛定谔方程，大学物理考试貌似还复习过这个公式，虽然现在已经记不清是什么意思来着了：<br>$$i\hbar\frac{\partial \psi}{\partial t}<br>= \frac{-\hbar^2}{2m} \left(<br>\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}+ \frac{\partial^2}{\partial z^2}<br>\right) \psi + V \psi.$$</p>
@@ -52,7 +52,23 @@
 <li>shiyuefeng<figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">x = linspace(<span class="number">0</span>, <span class="number">2</span><span class="literal">pi</span>, <span class="number">100</span>)</span><br><span class="line">y = sin(x)</span><br></pre></td></tr></table></figure>
 </li>
 </ul>
-<p>|alogrithm | LPA | nsdLPA|<br>|…….|…..:|:…..:|<br>|Q | 0.45 |0.67|<br>哈哈哈</p>
+<table>
+<thead>
+<tr>
+<th>alogrithm</th>
+<th style="text-align:right">LPA</th>
+<th style="text-align:center">nsdLPA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q</td>
+<td style="text-align:right">0.45</td>
+<td style="text-align:center">0.67</td>
+</tr>
+</tbody>
+</table>
+<p>哈哈哈</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Simple inline $E=mc^2$<br>复杂一点的独立公式:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\par]]>
